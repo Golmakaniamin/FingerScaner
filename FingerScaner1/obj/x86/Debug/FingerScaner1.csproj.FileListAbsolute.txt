@@ -1,0 +1,13 @@
+D:\FingerScaner\FingerScaner1\FingerScaner1\obj\x86\Debug\App.g.cs
+D:\FingerScaner\FingerScaner1\FingerScaner1\obj\x86\Debug\FingerScaner1_MarkupCompile.cache
+D:\FingerScaner\FingerScaner1\FingerScaner1\obj\x86\Debug\FingerScaner1.g.resources
+D:\FingerScaner\FingerScaner1\FingerScaner1\obj\x86\Debug\FingerScaner1.Properties.Resources.resources
+D:\FingerScaner\FingerScaner1\FingerScaner1\obj\x86\Debug\FingerScaner1.csproj.GenerateResource.Cache
+D:\FingerScaner\FingerScaner1\FingerScaner1\obj\x86\Debug\MainForm.baml
+D:\FingerScaner\FingerScaner1\FingerScaner1\obj\x86\Debug\MainForm.g.cs
+D:\FingerScaner\FingerScaner1\FingerScaner1\obj\x86\Debug\BusyForm.baml
+D:\FingerScaner\FingerScaner1\FingerScaner1\obj\x86\Debug\BusyForm.g.cs
+D:\FingerScaner\FingerScaner1\FingerScaner1\bin\Debug\FingerScaner1.exe
+D:\FingerScaner\FingerScaner1\FingerScaner1\bin\Debug\FingerScaner1.pdb
+D:\FingerScaner\FingerScaner1\FingerScaner1\obj\x86\Debug\FingerScaner1.exe
+D:\FingerScaner\FingerScaner1\FingerScaner1\obj\x86\Debug\FingerScaner1.pdb
